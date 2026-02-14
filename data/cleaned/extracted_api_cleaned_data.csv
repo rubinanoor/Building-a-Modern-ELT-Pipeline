@@ -1,0 +1,799 @@
+round,indicator,group,subgroup,sample_size,response,percent,standard_error,suppression,significant_1,significant_2
+1,Provider offers telemedicine,Total,Total,6786.0,Total,100.0,,,,
+1,Provider offers telemedicine,Total,Total,,Yes,36.6,0.8,,,
+1,Provider offers telemedicine,Total,Total,,No,46.9,0.8,,,
+1,Provider offers telemedicine,Total,Total,,Do Not Know,5.2,0.4,,,
+1,Provider offers telemedicine,Total,Total,,No Usual Place Of Care,11.3,0.7,,,
+1,Provider offers telemedicine,Age Group,18-44 Years,2607.0,Total,100.0,,,,
+1,Provider offers telemedicine,Age Group,18-44 Years,,Yes,30.2,1.2,,,
+1,Provider offers telemedicine,Age Group,18-44 Years,,No,45.9,1.1,,,
+1,Provider offers telemedicine,Age Group,18-44 Years,,Do Not Know,7.0,0.8,,,
+1,Provider offers telemedicine,Age Group,18-44 Years,,No Usual Place Of Care,16.9,1.1,,,
+1,Provider offers telemedicine,Age Group,45-64 Years,2380.0,Total,100.0,,,,
+1,Provider offers telemedicine,Age Group,45-64 Years,,Yes,39.8,1.4,,,
+1,Provider offers telemedicine,Age Group,45-64 Years,,No,48.5,1.5,,,
+1,Provider offers telemedicine,Age Group,45-64 Years,,Do Not Know,4.1,0.6,,,
+1,Provider offers telemedicine,Age Group,45-64 Years,,No Usual Place Of Care,7.6,0.7,,,
+1,Provider offers telemedicine,Age Group,65 Years And Over,1799.0,Total,100.0,,,,
+1,Provider offers telemedicine,Age Group,65 Years And Over,,Yes,45.9,1.3,,,
+1,Provider offers telemedicine,Age Group,65 Years And Over,,No,46.5,1.3,,,
+1,Provider offers telemedicine,Age Group,65 Years And Over,,Do Not Know,2.9,0.5,,,
+1,Provider offers telemedicine,Age Group,65 Years And Over,,No Usual Place Of Care,4.6,0.8,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,White Non-Hispanic,4506.0,Total,100.0,,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,White Non-Hispanic,,Yes,37.4,1.3,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,White Non-Hispanic,,No,48.7,1.3,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,White Non-Hispanic,,Do Not Know,4.8,0.5,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,White Non-Hispanic,,No Usual Place Of Care,9.1,0.7,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,Black Non-Hispanic,811.0,Total,100.0,,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,Black Non-Hispanic,,Yes,38.5,2.7,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,Black Non-Hispanic,,No,42.9,2.1,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,Black Non-Hispanic,,Do Not Know,5.8,0.7,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,Black Non-Hispanic,,No Usual Place Of Care,12.9,2.2,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,Other Non-Hispanic,529.0,Total,100.0,,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,Other Non-Hispanic,,Yes,34.1,2.2,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,Other Non-Hispanic,,No,46.1,2.6,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,Other Non-Hispanic,,Do Not Know,,,*,,
+1,Provider offers telemedicine,Race/Hispanic Origin,Other Non-Hispanic,,No Usual Place Of Care,12.2,2.4,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,Hispanic,940.0,Total,100.0,,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,Hispanic,,Yes,33.4,2.0,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,Hispanic,,No,43.5,2.9,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,Hispanic,,Do Not Know,5.2,1.0,,,
+1,Provider offers telemedicine,Race/Hispanic Origin,Hispanic,,No Usual Place Of Care,17.9,2.6,,,
+1,Provider offers telemedicine,Sex,Male,2963.0,Total,100.0,,,,
+1,Provider offers telemedicine,Sex,Male,,Yes,33.4,1.1,,,
+1,Provider offers telemedicine,Sex,Male,,No,48.9,1.3,,,
+1,Provider offers telemedicine,Sex,Male,,Do Not Know,4.9,0.5,,,
+1,Provider offers telemedicine,Sex,Male,,No Usual Place Of Care,12.9,1.0,,,
+1,Provider offers telemedicine,Sex,Female,3823.0,Total,100.0,,,,
+1,Provider offers telemedicine,Sex,Female,,Yes,39.7,1.0,,,
+1,Provider offers telemedicine,Sex,Female,,No,45.1,1.0,,,
+1,Provider offers telemedicine,Sex,Female,,Do Not Know,5.5,0.6,,,
+1,Provider offers telemedicine,Sex,Female,,No Usual Place Of Care,9.8,1.0,,,
+1,Provider offers telemedicine,Education,High School Graduate Or Less,1294.0,Total,100.0,,,,
+1,Provider offers telemedicine,Education,High School Graduate Or Less,,Yes,35.0,1.6,,,
+1,Provider offers telemedicine,Education,High School Graduate Or Less,,No,45.7,1.5,,,
+1,Provider offers telemedicine,Education,High School Graduate Or Less,,Do Not Know,5.1,0.9,,,
+1,Provider offers telemedicine,Education,High School Graduate Or Less,,No Usual Place Of Care,14.2,1.6,,,
+1,Provider offers telemedicine,Education,Some College,2552.0,Total,100.0,,,,
+1,Provider offers telemedicine,Education,Some College,,Yes,35.4,1.5,,,
+1,Provider offers telemedicine,Education,Some College,,No,49.0,1.2,,,
+1,Provider offers telemedicine,Education,Some College,,Do Not Know,5.2,0.6,,,
+1,Provider offers telemedicine,Education,Some College,,No Usual Place Of Care,10.3,0.7,,,
+1,Provider offers telemedicine,Education,Bachelor'S Degree Or Above,2940.0,Total,100.0,,,,
+1,Provider offers telemedicine,Education,Bachelor'S Degree Or Above,,Yes,39.5,1.0,,,
+1,Provider offers telemedicine,Education,Bachelor'S Degree Or Above,,No,46.3,1.2,,,
+1,Provider offers telemedicine,Education,Bachelor'S Degree Or Above,,Do Not Know,5.3,0.5,,,
+1,Provider offers telemedicine,Education,Bachelor'S Degree Or Above,,No Usual Place Of Care,8.9,0.6,,,
+1,Provider offers telemedicine,Urbanization,Metropolitan,6050.0,Total,100.0,,,,
+1,Provider offers telemedicine,Urbanization,Metropolitan,,Yes,36.7,0.9,,,
+1,Provider offers telemedicine,Urbanization,Metropolitan,,No,46.2,0.9,,,
+1,Provider offers telemedicine,Urbanization,Metropolitan,,Do Not Know,5.3,0.5,,,
+1,Provider offers telemedicine,Urbanization,Metropolitan,,No Usual Place Of Care,11.8,0.7,,,
+1,Provider offers telemedicine,Urbanization,Non-Metropolitan,736.0,Total,100.0,,,,
+1,Provider offers telemedicine,Urbanization,Non-Metropolitan,,Yes,35.7,2.3,,,
+1,Provider offers telemedicine,Urbanization,Non-Metropolitan,,No,52.2,2.5,,,
+1,Provider offers telemedicine,Urbanization,Non-Metropolitan,,Do Not Know,4.8,1.1,,,
+1,Provider offers telemedicine,Urbanization,Non-Metropolitan,,No Usual Place Of Care,7.2,1.7,,,
+1,Provider offers telemedicine,Chronic Conditions,One Or More Chronic Conditions,4082.0,Total,100.0,,,,
+1,Provider offers telemedicine,Chronic Conditions,One Or More Chronic Conditions,,Yes,45.3,1.1,,,
+1,Provider offers telemedicine,Chronic Conditions,One Or More Chronic Conditions,,No,43.6,1.1,,,
+1,Provider offers telemedicine,Chronic Conditions,One Or More Chronic Conditions,,Do Not Know,4.1,0.5,,,
+1,Provider offers telemedicine,Chronic Conditions,One Or More Chronic Conditions,,No Usual Place Of Care,7.1,0.6,,,
+1,Provider offers telemedicine,Chronic Conditions,Diagnosed Diabetes,767.0,Total,100.0,,,,
+1,Provider offers telemedicine,Chronic Conditions,Diagnosed Diabetes,,Yes,55.7,3.0,,,
+1,Provider offers telemedicine,Chronic Conditions,Diagnosed Diabetes,,No,34.8,2.4,,,
+1,Provider offers telemedicine,Chronic Conditions,Diagnosed Diabetes,,Do Not Know,3.3,1.0,,,
+1,Provider offers telemedicine,Chronic Conditions,Diagnosed Diabetes,,No Usual Place Of Care,6.2,1.4,,,
+1,Provider offers telemedicine,Chronic Conditions,Diagnosed Hypertension,2421.0,Total,100.0,,,,
+1,Provider offers telemedicine,Chronic Conditions,Diagnosed Hypertension,,Yes,45.6,1.4,,,
+1,Provider offers telemedicine,Chronic Conditions,Diagnosed Hypertension,,No,44.8,1.5,,,
+1,Provider offers telemedicine,Chronic Conditions,Diagnosed Hypertension,,Do Not Know,3.7,0.6,,,
+1,Provider offers telemedicine,Chronic Conditions,Diagnosed Hypertension,,No Usual Place Of Care,5.9,0.7,,,
+1,Provider offers telemedicine,Chronic Conditions,Current Asthma,696.0,Total,100.0,,,,
+1,Provider offers telemedicine,Chronic Conditions,Current Asthma,,Yes,46.0,2.5,,,
+1,Provider offers telemedicine,Chronic Conditions,Current Asthma,,No,39.9,2.0,,,
+1,Provider offers telemedicine,Chronic Conditions,Current Asthma,,Do Not Know,5.7,1.5,,,
+1,Provider offers telemedicine,Chronic Conditions,Current Asthma,,No Usual Place Of Care,8.3,1.6,,,
+2,Provider offers telemedicine,Total,Total,5972.0,Total,100.0,,,,
+2,Provider offers telemedicine,Total,Total,,Yes,37.1,0.7,,0.0,
+2,Provider offers telemedicine,Total,Total,,No,48.0,0.9,,0.0,
+2,Provider offers telemedicine,Total,Total,,Do Not Know,5.4,0.4,,0.0,
+2,Provider offers telemedicine,Total,Total,,No Usual Place Of Care,9.5,0.7,,1.0,
+2,Provider offers telemedicine,Age Group,18-44 Years,2212.0,Total,100.0,,,,
+2,Provider offers telemedicine,Age Group,18-44 Years,,Yes,31.2,0.9,,0.0,
+2,Provider offers telemedicine,Age Group,18-44 Years,,No,47.3,1.3,,0.0,
+2,Provider offers telemedicine,Age Group,18-44 Years,,Do Not Know,7.5,0.7,,0.0,
+2,Provider offers telemedicine,Age Group,18-44 Years,,No Usual Place Of Care,14.0,1.3,,1.0,
+2,Provider offers telemedicine,Age Group,45-64 Years,2079.0,Total,100.0,,,,
+2,Provider offers telemedicine,Age Group,45-64 Years,,Yes,40.1,1.3,,0.0,
+2,Provider offers telemedicine,Age Group,45-64 Years,,No,48.2,1.5,,0.0,
+2,Provider offers telemedicine,Age Group,45-64 Years,,Do Not Know,4.7,0.7,,0.0,
+2,Provider offers telemedicine,Age Group,45-64 Years,,No Usual Place Of Care,7.0,0.8,,0.0,
+2,Provider offers telemedicine,Age Group,65 Years And Over,1681.0,Total,100.0,,,,
+2,Provider offers telemedicine,Age Group,65 Years And Over,,Yes,45.6,1.7,,0.0,
+2,Provider offers telemedicine,Age Group,65 Years And Over,,No,49.3,1.8,,0.0,
+2,Provider offers telemedicine,Age Group,65 Years And Over,,Do Not Know,1.8,0.4,,1.0,
+2,Provider offers telemedicine,Age Group,65 Years And Over,,No Usual Place Of Care,3.4,0.6,,0.0,
+2,Provider offers telemedicine,Race/Hispanic Origin,White Non-Hispanic,4073.0,Total,100.0,,,,
+2,Provider offers telemedicine,Race/Hispanic Origin,White Non-Hispanic,,Yes,37.9,1.3,,0.0,
+2,Provider offers telemedicine,Race/Hispanic Origin,White Non-Hispanic,,No,49.3,1.4,,0.0,
+2,Provider offers telemedicine,Race/Hispanic Origin,White Non-Hispanic,,Do Not Know,4.8,0.5,,0.0,
+2,Provider offers telemedicine,Race/Hispanic Origin,White Non-Hispanic,,No Usual Place Of Care,8.0,0.8,,0.0,
+2,Provider offers telemedicine,Race/Hispanic Origin,Black Non-Hispanic,689.0,Total,100.0,,,,
+2,Provider offers telemedicine,Race/Hispanic Origin,Black Non-Hispanic,,Yes,40.0,1.7,,0.0,
+2,Provider offers telemedicine,Race/Hispanic Origin,Black Non-Hispanic,,No,47.2,2.2,,0.0,
+2,Provider offers telemedicine,Race/Hispanic Origin,Black Non-Hispanic,,Do Not Know,3.4,0.9,,1.0,
+2,Provider offers telemedicine,Race/Hispanic Origin,Black Non-Hispanic,,No Usual Place Of Care,9.5,1.7,,0.0,
+2,Provider offers telemedicine,Race/Hispanic Origin,Other Non-Hispanic,461.0,Total,100.0,,,,
+2,Provider offers telemedicine,Race/Hispanic Origin,Other Non-Hispanic,,Yes,34.4,3.4,,0.0,
+2,Provider offers telemedicine,Race/Hispanic Origin,Other Non-Hispanic,,No,47.7,4.2,,0.0,
+2,Provider offers telemedicine,Race/Hispanic Origin,Other Non-Hispanic,,Do Not Know,7.9,1.7,,,
+2,Provider offers telemedicine,Race/Hispanic Origin,Other Non-Hispanic,,No Usual Place Of Care,10.1,1.8,,0.0,
+2,Provider offers telemedicine,Race/Hispanic Origin,Hispanic,749.0,Total,100.0,,,,
+2,Provider offers telemedicine,Race/Hispanic Origin,Hispanic,,Yes,33.1,2.8,,0.0,
+2,Provider offers telemedicine,Race/Hispanic Origin,Hispanic,,No,43.6,2.6,,0.0,
+2,Provider offers telemedicine,Race/Hispanic Origin,Hispanic,,Do Not Know,8.3,1.2,,1.0,
+2,Provider offers telemedicine,Race/Hispanic Origin,Hispanic,,No Usual Place Of Care,15.0,1.9,,0.0,
+2,Provider offers telemedicine,Sex,Male,2588.0,Total,100.0,,,,
+2,Provider offers telemedicine,Sex,Male,,Yes,33.4,1.0,,0.0,
+2,Provider offers telemedicine,Sex,Male,,No,49.5,1.2,,0.0,
+2,Provider offers telemedicine,Sex,Male,,Do Not Know,5.7,0.7,,0.0,
+2,Provider offers telemedicine,Sex,Male,,No Usual Place Of Care,11.3,0.9,,0.0,
+2,Provider offers telemedicine,Sex,Female,3384.0,Total,100.0,,,,
+2,Provider offers telemedicine,Sex,Female,,Yes,40.5,0.8,,0.0,
+2,Provider offers telemedicine,Sex,Female,,No,46.5,0.9,,0.0,
+2,Provider offers telemedicine,Sex,Female,,Do Not Know,5.1,0.6,,0.0,
+2,Provider offers telemedicine,Sex,Female,,No Usual Place Of Care,7.8,1.0,,0.0,
+2,Provider offers telemedicine,Education,High School Graduate Or Less,1102.0,Total,100.0,,,,
+2,Provider offers telemedicine,Education,High School Graduate Or Less,,Yes,33.3,1.4,,0.0,
+2,Provider offers telemedicine,Education,High School Graduate Or Less,,No,50.6,1.7,,1.0,
+2,Provider offers telemedicine,Education,High School Graduate Or Less,,Do Not Know,4.9,0.8,,0.0,
+2,Provider offers telemedicine,Education,High School Graduate Or Less,,No Usual Place Of Care,11.2,1.4,,0.0,
+2,Provider offers telemedicine,Education,Some College,2224.0,Total,100.0,,,,
+2,Provider offers telemedicine,Education,Some College,,Yes,37.6,1.1,,0.0,
+2,Provider offers telemedicine,Education,Some College,,No,48.6,1.2,,0.0,
+2,Provider offers telemedicine,Education,Some College,,Do Not Know,5.1,0.8,,0.0,
+2,Provider offers telemedicine,Education,Some College,,No Usual Place Of Care,8.7,0.8,,1.0,
+2,Provider offers telemedicine,Education,Bachelor'S Degree Or Above,2646.0,Total,100.0,,,,
+2,Provider offers telemedicine,Education,Bachelor'S Degree Or Above,,Yes,40.8,1.3,,0.0,
+2,Provider offers telemedicine,Education,Bachelor'S Degree Or Above,,No,44.6,1.3,,0.0,
+2,Provider offers telemedicine,Education,Bachelor'S Degree Or Above,,Do Not Know,6.2,0.7,,0.0,
+2,Provider offers telemedicine,Education,Bachelor'S Degree Or Above,,No Usual Place Of Care,8.4,0.6,,0.0,
+2,Provider offers telemedicine,Urbanization,Metropolitan,5315.0,Total,100.0,,,,
+2,Provider offers telemedicine,Urbanization,Metropolitan,,Yes,38.0,0.7,,0.0,
+2,Provider offers telemedicine,Urbanization,Metropolitan,,No,46.9,0.8,,0.0,
+2,Provider offers telemedicine,Urbanization,Metropolitan,,Do Not Know,5.5,0.4,,0.0,
+2,Provider offers telemedicine,Urbanization,Metropolitan,,No Usual Place Of Care,9.7,0.6,,1.0,
+2,Provider offers telemedicine,Urbanization,Non-Metropolitan,657.0,Total,100.0,,,,
+2,Provider offers telemedicine,Urbanization,Non-Metropolitan,,Yes,30.3,2.7,,0.0,
+2,Provider offers telemedicine,Urbanization,Non-Metropolitan,,No,57.0,3.6,,0.0,
+2,Provider offers telemedicine,Urbanization,Non-Metropolitan,,Do Not Know,,,*,,
+2,Provider offers telemedicine,Urbanization,Non-Metropolitan,,No Usual Place Of Care,7.8,1.8,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,One Or More Chronic Conditions,3650.0,Total,100.0,,,,
+2,Provider offers telemedicine,Chronic Conditions,One Or More Chronic Conditions,,Yes,44.5,0.8,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,One Or More Chronic Conditions,,No,45.7,1.2,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,One Or More Chronic Conditions,,Do Not Know,3.6,0.4,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,One Or More Chronic Conditions,,No Usual Place Of Care,6.2,0.5,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,Diagnosed Diabetes,689.0,Total,100.0,,,,
+2,Provider offers telemedicine,Chronic Conditions,Diagnosed Diabetes,,Yes,55.2,2.9,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,Diagnosed Diabetes,,No,36.9,3.1,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,Diagnosed Diabetes,,Do Not Know,2.2,0.9,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,Diagnosed Diabetes,,No Usual Place Of Care,5.7,1.4,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,Diagnosed Hypertension,2190.0,Total,100.0,,,,
+2,Provider offers telemedicine,Chronic Conditions,Diagnosed Hypertension,,Yes,47.1,1.3,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,Diagnosed Hypertension,,No,44.5,1.6,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,Diagnosed Hypertension,,Do Not Know,3.1,0.5,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,Diagnosed Hypertension,,No Usual Place Of Care,5.3,0.6,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,Current Asthma,619.0,Total,100.0,,,,
+2,Provider offers telemedicine,Chronic Conditions,Current Asthma,,Yes,44.6,2.3,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,Current Asthma,,No,43.5,2.3,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,Current Asthma,,Do Not Know,3.3,1.0,,0.0,
+2,Provider offers telemedicine,Chronic Conditions,Current Asthma,,No Usual Place Of Care,8.6,1.4,,0.0,
+3,Provider offers telemedicine,Total,Total,2738.0,Total,100.0,,,,
+3,Provider offers telemedicine,Total,Total,,Yes,31.7,1.2,,1.0,1.0
+3,Provider offers telemedicine,Total,Total,,No,54.1,1.3,,1.0,1.0
+3,Provider offers telemedicine,Total,Total,,Do Not Know,3.9,0.5,,0.0,1.0
+3,Provider offers telemedicine,Total,Total,,No Usual Place Of Care,10.2,1.0,,0.0,0.0
+3,Provider offers telemedicine,Age Group,18-44 Years,1007.0,Total,100.0,,,,
+3,Provider offers telemedicine,Age Group,18-44 Years,,Yes,27.8,1.7,,0.0,0.0
+3,Provider offers telemedicine,Age Group,18-44 Years,,No,49.8,2.2,,0.0,0.0
+3,Provider offers telemedicine,Age Group,18-44 Years,,Do Not Know,5.9,1.0,,0.0,0.0
+3,Provider offers telemedicine,Age Group,18-44 Years,,No Usual Place Of Care,16.5,1.9,,0.0,0.0
+3,Provider offers telemedicine,Age Group,45-64 Years,892.0,Total,100.0,,,,
+3,Provider offers telemedicine,Age Group,45-64 Years,,Yes,34.0,2.0,,1.0,1.0
+3,Provider offers telemedicine,Age Group,45-64 Years,,No,56.8,2.1,,1.0,1.0
+3,Provider offers telemedicine,Age Group,45-64 Years,,Do Not Know,3.0,0.9,,0.0,0.0
+3,Provider offers telemedicine,Age Group,45-64 Years,,No Usual Place Of Care,6.2,1.0,,0.0,0.0
+3,Provider offers telemedicine,Age Group,65 Years And Over,839.0,Total,100.0,,,,
+3,Provider offers telemedicine,Age Group,65 Years And Over,,Yes,37.1,2.1,,1.0,1.0
+3,Provider offers telemedicine,Age Group,65 Years And Over,,No,59.7,2.2,,1.0,1.0
+3,Provider offers telemedicine,Age Group,65 Years And Over,,Do Not Know,0.8,0.3,,1.0,0.0
+3,Provider offers telemedicine,Age Group,65 Years And Over,,No Usual Place Of Care,2.5,0.7,,0.0,0.0
+3,Provider offers telemedicine,Race/Hispanic Origin,White Non-Hispanic,1764.0,Total,100.0,,,,
+3,Provider offers telemedicine,Race/Hispanic Origin,White Non-Hispanic,,Yes,32.2,1.5,,1.0,1.0
+3,Provider offers telemedicine,Race/Hispanic Origin,White Non-Hispanic,,No,57.5,1.4,,1.0,1.0
+3,Provider offers telemedicine,Race/Hispanic Origin,White Non-Hispanic,,Do Not Know,2.9,0.5,,1.0,1.0
+3,Provider offers telemedicine,Race/Hispanic Origin,White Non-Hispanic,,No Usual Place Of Care,7.5,1.0,,0.0,0.0
+3,Provider offers telemedicine,Race/Hispanic Origin,Black Non-Hispanic,401.0,Total,100.0,,,,
+3,Provider offers telemedicine,Race/Hispanic Origin,Black Non-Hispanic,,Yes,34.9,3.3,,0.0,0.0
+3,Provider offers telemedicine,Race/Hispanic Origin,Black Non-Hispanic,,No,45.5,3.3,,0.0,0.0
+3,Provider offers telemedicine,Race/Hispanic Origin,Black Non-Hispanic,,Do Not Know,,,*,,
+3,Provider offers telemedicine,Race/Hispanic Origin,Black Non-Hispanic,,No Usual Place Of Care,14.9,3.0,,0.0,0.0
+3,Provider offers telemedicine,Race/Hispanic Origin,Other Non-Hispanic,180.0,Total,100.0,,,,
+3,Provider offers telemedicine,Race/Hispanic Origin,Other Non-Hispanic,,Yes,23.8,3.3,,1.0,1.0
+3,Provider offers telemedicine,Race/Hispanic Origin,Other Non-Hispanic,,No,58.1,5.1,,1.0,0.0
+3,Provider offers telemedicine,Race/Hispanic Origin,Other Non-Hispanic,,Do Not Know,,,*,,
+3,Provider offers telemedicine,Race/Hispanic Origin,Other Non-Hispanic,,No Usual Place Of Care,,,*,,
+3,Provider offers telemedicine,Race/Hispanic Origin,Hispanic,393.0,Total,100.0,,,,
+3,Provider offers telemedicine,Race/Hispanic Origin,Hispanic,,Yes,31.1,2.8,,0.0,0.0
+3,Provider offers telemedicine,Race/Hispanic Origin,Hispanic,,No,45.4,3.6,,0.0,0.0
+3,Provider offers telemedicine,Race/Hispanic Origin,Hispanic,,Do Not Know,7.6,2.0,,0.0,0.0
+3,Provider offers telemedicine,Race/Hispanic Origin,Hispanic,,No Usual Place Of Care,15.9,3.1,,0.0,0.0
+3,Provider offers telemedicine,Sex,Male,1226.0,Total,100.0,,,,
+3,Provider offers telemedicine,Sex,Male,,Yes,29.9,1.9,,0.0,0.0
+3,Provider offers telemedicine,Sex,Male,,No,53.7,1.7,,1.0,1.0
+3,Provider offers telemedicine,Sex,Male,,Do Not Know,4.8,1.0,,0.0,0.0
+3,Provider offers telemedicine,Sex,Male,,No Usual Place Of Care,11.6,1.2,,0.0,0.0
+3,Provider offers telemedicine,Sex,Female,1512.0,Total,100.0,,,,
+3,Provider offers telemedicine,Sex,Female,,Yes,33.4,1.6,,1.0,1.0
+3,Provider offers telemedicine,Sex,Female,,No,54.5,1.6,,1.0,1.0
+3,Provider offers telemedicine,Sex,Female,,Do Not Know,3.2,0.5,,1.0,1.0
+3,Provider offers telemedicine,Sex,Female,,No Usual Place Of Care,8.9,1.2,,0.0,0.0
+3,Provider offers telemedicine,Education,High School Graduate Or Less,631.0,Total,100.0,,,,
+3,Provider offers telemedicine,Education,High School Graduate Or Less,,Yes,29.3,2.6,,0.0,0.0
+3,Provider offers telemedicine,Education,High School Graduate Or Less,,No,53.1,2.6,,1.0,0.0
+3,Provider offers telemedicine,Education,High School Graduate Or Less,,Do Not Know,,,*,,
+3,Provider offers telemedicine,Education,High School Graduate Or Less,,No Usual Place Of Care,13.8,1.9,,0.0,0.0
+3,Provider offers telemedicine,Education,Some College,1314.0,Total,100.0,,,,
+3,Provider offers telemedicine,Education,Some College,,Yes,33.9,1.7,,0.0,1.0
+3,Provider offers telemedicine,Education,Some College,,No,53.6,1.7,,1.0,1.0
+3,Provider offers telemedicine,Education,Some College,,Do Not Know,3.8,0.7,,0.0,0.0
+3,Provider offers telemedicine,Education,Some College,,No Usual Place Of Care,8.7,1.1,,0.0,0.0
+3,Provider offers telemedicine,Education,Bachelor'S Degree Or Above,793.0,Total,100.0,,,,
+3,Provider offers telemedicine,Education,Bachelor'S Degree Or Above,,Yes,32.6,2.0,,1.0,1.0
+3,Provider offers telemedicine,Education,Bachelor'S Degree Or Above,,No,56.0,1.8,,1.0,1.0
+3,Provider offers telemedicine,Education,Bachelor'S Degree Or Above,,Do Not Know,4.3,1.2,,0.0,0.0
+3,Provider offers telemedicine,Education,Bachelor'S Degree Or Above,,No Usual Place Of Care,7.2,1.0,,0.0,0.0
+3,Provider offers telemedicine,Urbanization,Metropolitan,2313.0,Total,100.0,,,,
+3,Provider offers telemedicine,Urbanization,Metropolitan,,Yes,33.3,1.2,,1.0,1.0
+3,Provider offers telemedicine,Urbanization,Metropolitan,,No,52.0,1.3,,1.0,1.0
+3,Provider offers telemedicine,Urbanization,Metropolitan,,Do Not Know,4.1,0.7,,0.0,0.0
+3,Provider offers telemedicine,Urbanization,Metropolitan,,No Usual Place Of Care,10.5,1.0,,0.0,0.0
+3,Provider offers telemedicine,Urbanization,Non-Metropolitan,425.0,Total,100.0,,,,
+3,Provider offers telemedicine,Urbanization,Non-Metropolitan,,Yes,23.0,3.0,,1.0,0.0
+3,Provider offers telemedicine,Urbanization,Non-Metropolitan,,No,65.8,2.9,,1.0,1.0
+3,Provider offers telemedicine,Urbanization,Non-Metropolitan,,Do Not Know,,,*,,
+3,Provider offers telemedicine,Urbanization,Non-Metropolitan,,No Usual Place Of Care,8.3,2.4,,0.0,0.0
+3,Provider offers telemedicine,Chronic Conditions,One Or More Chronic Conditions,1701.0,Total,100.0,,,,
+3,Provider offers telemedicine,Chronic Conditions,One Or More Chronic Conditions,,Yes,38.7,1.6,,1.0,1.0
+3,Provider offers telemedicine,Chronic Conditions,One Or More Chronic Conditions,,No,53.1,1.5,,1.0,1.0
+3,Provider offers telemedicine,Chronic Conditions,One Or More Chronic Conditions,,Do Not Know,2.9,0.6,,0.0,0.0
+3,Provider offers telemedicine,Chronic Conditions,One Or More Chronic Conditions,,No Usual Place Of Care,5.3,0.9,,0.0,0.0
+3,Provider offers telemedicine,Chronic Conditions,Diagnosed Diabetes,373.0,Total,100.0,,,,
+3,Provider offers telemedicine,Chronic Conditions,Diagnosed Diabetes,,Yes,45.4,3.1,,1.0,1.0
+3,Provider offers telemedicine,Chronic Conditions,Diagnosed Diabetes,,No,49.9,3.3,,1.0,1.0
+3,Provider offers telemedicine,Chronic Conditions,Diagnosed Diabetes,,Do Not Know,0.4,0.2,,1.0,1.0
+3,Provider offers telemedicine,Chronic Conditions,Diagnosed Diabetes,,No Usual Place Of Care,,,*,,
+3,Provider offers telemedicine,Chronic Conditions,Diagnosed Hypertension,1038.0,Total,100.0,,,,
+3,Provider offers telemedicine,Chronic Conditions,Diagnosed Hypertension,,Yes,39.7,2.2,,1.0,1.0
+3,Provider offers telemedicine,Chronic Conditions,Diagnosed Hypertension,,No,52.6,2.3,,1.0,1.0
+3,Provider offers telemedicine,Chronic Conditions,Diagnosed Hypertension,,Do Not Know,2.7,0.8,,0.0,0.0
+3,Provider offers telemedicine,Chronic Conditions,Diagnosed Hypertension,,No Usual Place Of Care,5.0,1.1,,0.0,0.0
+3,Provider offers telemedicine,Chronic Conditions,Current Asthma,258.0,Total,100.0,,,,
+3,Provider offers telemedicine,Chronic Conditions,Current Asthma,,Yes,38.5,5.5,,0.0,0.0
+3,Provider offers telemedicine,Chronic Conditions,Current Asthma,,No,50.7,5.7,,0.0,0.0
+3,Provider offers telemedicine,Chronic Conditions,Current Asthma,,Do Not Know,,,*,,
+3,Provider offers telemedicine,Chronic Conditions,Current Asthma,,No Usual Place Of Care,,,*,,
+1,Scheduled one or more telemedicine appointments,Total,Total,6758.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Total,Total,,Yes,24.2,0.9,,,
+1,Scheduled one or more telemedicine appointments,Total,Total,,No,17.3,0.7,,,
+1,Scheduled one or more telemedicine appointments,Total,Total,,No Telemedicine Available,58.5,0.8,,,
+1,Scheduled one or more telemedicine appointments,Age Group,18-44 Years,2584.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Age Group,18-44 Years,,Yes,18.8,1.0,,,
+1,Scheduled one or more telemedicine appointments,Age Group,18-44 Years,,No,17.8,1.1,,,
+1,Scheduled one or more telemedicine appointments,Age Group,18-44 Years,,No Telemedicine Available,63.4,1.1,,,
+1,Scheduled one or more telemedicine appointments,Age Group,45-64 Years,2379.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Age Group,45-64 Years,,Yes,26.9,1.3,,,
+1,Scheduled one or more telemedicine appointments,Age Group,45-64 Years,,No,17.0,1.1,,,
+1,Scheduled one or more telemedicine appointments,Age Group,45-64 Years,,No Telemedicine Available,56.1,1.4,,,
+1,Scheduled one or more telemedicine appointments,Age Group,65 Years And Over,1795.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Age Group,65 Years And Over,,Yes,32.0,1.4,,,
+1,Scheduled one or more telemedicine appointments,Age Group,65 Years And Over,,No,16.7,1.2,,,
+1,Scheduled one or more telemedicine appointments,Age Group,65 Years And Over,,No Telemedicine Available,51.3,1.3,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,White Non-Hispanic,4501.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,White Non-Hispanic,,Yes,24.7,1.3,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,White Non-Hispanic,,No,17.4,0.8,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,White Non-Hispanic,,No Telemedicine Available,57.9,1.3,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Black Non-Hispanic,801.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Black Non-Hispanic,,Yes,27.4,2.2,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Black Non-Hispanic,,No,16.0,1.3,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Black Non-Hispanic,,No Telemedicine Available,56.6,2.7,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Other Non-Hispanic,525.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Other Non-Hispanic,,Yes,19.9,2.3,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Other Non-Hispanic,,No,21.5,2.7,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Other Non-Hispanic,,No Telemedicine Available,58.6,2.4,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Hispanic,931.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Hispanic,,Yes,21.9,1.8,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Hispanic,,No,16.1,1.8,,,
+1,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Hispanic,,No Telemedicine Available,62.0,2.3,,,
+1,Scheduled one or more telemedicine appointments,Sex,Male,2954.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Sex,Male,,Yes,22.0,1.1,,,
+1,Scheduled one or more telemedicine appointments,Sex,Male,,No,16.0,0.8,,,
+1,Scheduled one or more telemedicine appointments,Sex,Male,,No Telemedicine Available,62.0,1.1,,,
+1,Scheduled one or more telemedicine appointments,Sex,Female,3804.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Sex,Female,,Yes,26.4,1.0,,,
+1,Scheduled one or more telemedicine appointments,Sex,Female,,No,18.5,1.0,,,
+1,Scheduled one or more telemedicine appointments,Sex,Female,,No Telemedicine Available,55.1,1.1,,,
+1,Scheduled one or more telemedicine appointments,Education,High School Graduate Or Less,1277.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Education,High School Graduate Or Less,,Yes,23.1,1.4,,,
+1,Scheduled one or more telemedicine appointments,Education,High School Graduate Or Less,,No,16.3,1.6,,,
+1,Scheduled one or more telemedicine appointments,Education,High School Graduate Or Less,,No Telemedicine Available,60.5,1.5,,,
+1,Scheduled one or more telemedicine appointments,Education,Some College,2544.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Education,Some College,,Yes,24.2,1.1,,,
+1,Scheduled one or more telemedicine appointments,Education,Some College,,No,16.3,0.8,,,
+1,Scheduled one or more telemedicine appointments,Education,Some College,,No Telemedicine Available,59.5,1.5,,,
+1,Scheduled one or more telemedicine appointments,Education,Bachelor'S Degree Or Above,2937.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Education,Bachelor'S Degree Or Above,,Yes,25.5,1.1,,,
+1,Scheduled one or more telemedicine appointments,Education,Bachelor'S Degree Or Above,,No,19.3,0.8,,,
+1,Scheduled one or more telemedicine appointments,Education,Bachelor'S Degree Or Above,,No Telemedicine Available,55.3,1.0,,,
+1,Scheduled one or more telemedicine appointments,Urbanization,Metropolitan,6025.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Urbanization,Metropolitan,,Yes,24.4,0.9,,,
+1,Scheduled one or more telemedicine appointments,Urbanization,Metropolitan,,No,17.3,0.7,,,
+1,Scheduled one or more telemedicine appointments,Urbanization,Metropolitan,,No Telemedicine Available,58.3,0.8,,,
+1,Scheduled one or more telemedicine appointments,Urbanization,Non-Metropolitan,733.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Urbanization,Non-Metropolitan,,Yes,22.6,1.4,,,
+1,Scheduled one or more telemedicine appointments,Urbanization,Non-Metropolitan,,No,17.8,2.1,,,
+1,Scheduled one or more telemedicine appointments,Urbanization,Non-Metropolitan,,No Telemedicine Available,59.6,2.5,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,One Or More Chronic Conditions,4068.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,One Or More Chronic Conditions,,Yes,31.6,1.1,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,One Or More Chronic Conditions,,No,17.5,0.8,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,One Or More Chronic Conditions,,No Telemedicine Available,50.9,1.2,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Diabetes,765.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Diabetes,,Yes,44.4,2.9,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Diabetes,,No,14.4,1.7,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Diabetes,,No Telemedicine Available,41.2,2.9,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Hypertension,2416.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Hypertension,,Yes,32.9,1.4,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Hypertension,,No,16.3,1.0,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Hypertension,,No Telemedicine Available,50.8,1.6,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,Current Asthma,691.0,Total,100.0,,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,Current Asthma,,Yes,36.9,2.4,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,Current Asthma,,No,14.5,1.8,,,
+1,Scheduled one or more telemedicine appointments,Chronic Conditions,Current Asthma,,No Telemedicine Available,48.6,2.4,,,
+2,Scheduled one or more telemedicine appointments,Total,Total,5949.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Total,Total,,Yes,24.3,0.7,,0.0,
+2,Scheduled one or more telemedicine appointments,Total,Total,,No,17.9,0.7,,0.0,
+2,Scheduled one or more telemedicine appointments,Total,Total,,No Telemedicine Available,57.8,0.8,,0.0,
+2,Scheduled one or more telemedicine appointments,Age Group,18-44 Years,2193.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Age Group,18-44 Years,,Yes,20.8,0.9,,0.0,
+2,Scheduled one or more telemedicine appointments,Age Group,18-44 Years,,No,17.2,1.3,,0.0,
+2,Scheduled one or more telemedicine appointments,Age Group,18-44 Years,,No Telemedicine Available,62.0,1.2,,0.0,
+2,Scheduled one or more telemedicine appointments,Age Group,45-64 Years,2080.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Age Group,45-64 Years,,Yes,25.9,1.1,,0.0,
+2,Scheduled one or more telemedicine appointments,Age Group,45-64 Years,,No,19.0,1.0,,0.0,
+2,Scheduled one or more telemedicine appointments,Age Group,45-64 Years,,No Telemedicine Available,55.2,1.4,,0.0,
+2,Scheduled one or more telemedicine appointments,Age Group,65 Years And Over,1676.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Age Group,65 Years And Over,,Yes,29.5,1.4,,0.0,
+2,Scheduled one or more telemedicine appointments,Age Group,65 Years And Over,,No,17.6,1.2,,0.0,
+2,Scheduled one or more telemedicine appointments,Age Group,65 Years And Over,,No Telemedicine Available,52.9,1.6,,0.0,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,White Non-Hispanic,4064.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,White Non-Hispanic,,Yes,24.2,1.0,,0.0,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,White Non-Hispanic,,No,18.2,0.9,,0.0,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,White Non-Hispanic,,No Telemedicine Available,57.6,1.3,,0.0,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Black Non-Hispanic,685.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Black Non-Hispanic,,Yes,28.9,1.8,,0.0,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Black Non-Hispanic,,No,14.0,1.6,,0.0,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Black Non-Hispanic,,No Telemedicine Available,57.1,1.8,,0.0,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Other Non-Hispanic,459.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Other Non-Hispanic,,Yes,22.6,2.6,,0.0,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Other Non-Hispanic,,No,19.4,2.6,,0.0,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Other Non-Hispanic,,No Telemedicine Available,58.0,3.8,,0.0,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Hispanic,741.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Hispanic,,Yes,21.9,2.5,,0.0,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Hispanic,,No,18.9,1.9,,0.0,
+2,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Hispanic,,No Telemedicine Available,59.2,3.0,,0.0,
+2,Scheduled one or more telemedicine appointments,Sex,Male,2578.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Sex,Male,,Yes,20.4,0.8,,0.0,
+2,Scheduled one or more telemedicine appointments,Sex,Male,,No,18.4,1.0,,1.0,
+2,Scheduled one or more telemedicine appointments,Sex,Male,,No Telemedicine Available,61.2,1.0,,0.0,
+2,Scheduled one or more telemedicine appointments,Sex,Female,3371.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Sex,Female,,Yes,27.9,0.9,,0.0,
+2,Scheduled one or more telemedicine appointments,Sex,Female,,No,17.4,1.0,,0.0,
+2,Scheduled one or more telemedicine appointments,Sex,Female,,No Telemedicine Available,54.7,0.9,,0.0,
+2,Scheduled one or more telemedicine appointments,Education,High School Graduate Or Less,1094.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Education,High School Graduate Or Less,,Yes,21.9,1.5,,0.0,
+2,Scheduled one or more telemedicine appointments,Education,High School Graduate Or Less,,No,15.9,1.3,,0.0,
+2,Scheduled one or more telemedicine appointments,Education,High School Graduate Or Less,,No Telemedicine Available,62.2,1.7,,0.0,
+2,Scheduled one or more telemedicine appointments,Education,Some College,2213.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Education,Some College,,Yes,25.8,1.1,,0.0,
+2,Scheduled one or more telemedicine appointments,Education,Some College,,No,16.4,0.9,,0.0,
+2,Scheduled one or more telemedicine appointments,Education,Some College,,No Telemedicine Available,57.8,1.1,,0.0,
+2,Scheduled one or more telemedicine appointments,Education,Bachelor'S Degree Or Above,2642.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Education,Bachelor'S Degree Or Above,,Yes,25.5,1.0,,0.0,
+2,Scheduled one or more telemedicine appointments,Education,Bachelor'S Degree Or Above,,No,21.3,0.9,,1.0,
+2,Scheduled one or more telemedicine appointments,Education,Bachelor'S Degree Or Above,,No Telemedicine Available,53.1,1.3,,0.0,
+2,Scheduled one or more telemedicine appointments,Urbanization,Metropolitan,5292.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Urbanization,Metropolitan,,Yes,25.0,0.7,,0.0,
+2,Scheduled one or more telemedicine appointments,Urbanization,Metropolitan,,No,18.1,0.8,,0.0,
+2,Scheduled one or more telemedicine appointments,Urbanization,Metropolitan,,No Telemedicine Available,56.9,0.8,,0.0,
+2,Scheduled one or more telemedicine appointments,Urbanization,Non-Metropolitan,657.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Urbanization,Non-Metropolitan,,Yes,18.7,2.1,,1.0,
+2,Scheduled one or more telemedicine appointments,Urbanization,Non-Metropolitan,,No,16.5,1.8,,0.0,
+2,Scheduled one or more telemedicine appointments,Urbanization,Non-Metropolitan,,No Telemedicine Available,64.8,3.0,,0.0,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,One Or More Chronic Conditions,3638.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,One Or More Chronic Conditions,,Yes,30.1,1.0,,0.0,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,One Or More Chronic Conditions,,No,17.8,0.9,,0.0,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,One Or More Chronic Conditions,,No Telemedicine Available,52.1,1.0,,0.0,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Diabetes,687.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Diabetes,,Yes,41.6,3.1,,0.0,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Diabetes,,No,15.7,2.0,,0.0,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Diabetes,,No Telemedicine Available,42.7,3.0,,0.0,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Hypertension,2186.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Hypertension,,Yes,32.7,1.4,,0.0,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Hypertension,,No,17.4,1.1,,0.0,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Hypertension,,No Telemedicine Available,49.9,1.6,,0.0,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,Current Asthma,614.0,Total,100.0,,,,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,Current Asthma,,Yes,32.4,2.4,,0.0,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,Current Asthma,,No,14.8,2.2,,0.0,
+2,Scheduled one or more telemedicine appointments,Chronic Conditions,Current Asthma,,No Telemedicine Available,52.7,2.4,,0.0,
+3,Scheduled one or more telemedicine appointments,Total,Total,2651.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Total,Total,,Yes,17.3,1.1,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Total,Total,,No,15.4,1.1,,0.0,1.0
+3,Scheduled one or more telemedicine appointments,Total,Total,,No Telemedicine Available,67.2,1.2,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Age Group,18-44 Years,948.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Age Group,18-44 Years,,Yes,17.3,1.6,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Age Group,18-44 Years,,No,11.6,1.6,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Age Group,18-44 Years,,No Telemedicine Available,71.1,1.9,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Age Group,45-64 Years,872.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Age Group,45-64 Years,,Yes,16.1,1.7,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Age Group,45-64 Years,,No,19.0,1.9,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Age Group,45-64 Years,,No Telemedicine Available,65.0,2.1,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Age Group,65 Years And Over,831.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Age Group,65 Years And Over,,Yes,19.5,1.8,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Age Group,65 Years And Over,,No,17.8,1.7,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Age Group,65 Years And Over,,No Telemedicine Available,62.7,2.1,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,White Non-Hispanic,1717.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,White Non-Hispanic,,Yes,17.0,1.3,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,White Non-Hispanic,,No,16.0,1.2,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,White Non-Hispanic,,No Telemedicine Available,67.0,1.5,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Black Non-Hispanic,394.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Black Non-Hispanic,,Yes,21.7,3.7,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Black Non-Hispanic,,No,13.6,2.0,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Black Non-Hispanic,,No Telemedicine Available,64.6,3.4,,0.0,1.0
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Other Non-Hispanic,170.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Other Non-Hispanic,,Yes,13.4,2.5,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Other Non-Hispanic,,No,11.4,3.4,,1.0,0.0
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Other Non-Hispanic,,No Telemedicine Available,75.3,3.5,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Hispanic,370.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Hispanic,,Yes,17.0,2.3,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Hispanic,,No,16.4,2.8,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Race/Hispanic Origin,Hispanic,,No Telemedicine Available,66.7,2.9,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Sex,Male,1178.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Sex,Male,,Yes,16.5,1.4,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Sex,Male,,No,14.8,1.6,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Sex,Male,,No Telemedicine Available,68.7,1.8,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Sex,Female,1473.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Sex,Female,,Yes,18.1,1.3,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Sex,Female,,No,16.0,1.4,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Sex,Female,,No Telemedicine Available,66.0,1.6,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Education,High School Graduate Or Less,612.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Education,High School Graduate Or Less,,Yes,14.8,2.1,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Education,High School Graduate Or Less,,No,15.0,1.8,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Education,High School Graduate Or Less,,No Telemedicine Available,70.1,2.6,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Education,Some College,1270.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Education,Some College,,Yes,19.6,1.4,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Education,Some College,,No,15.4,1.3,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Education,Some College,,No Telemedicine Available,65.0,1.7,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Education,Bachelor'S Degree Or Above,769.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Education,Bachelor'S Degree Or Above,,Yes,18.1,1.7,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Education,Bachelor'S Degree Or Above,,No,15.9,1.5,,0.0,1.0
+3,Scheduled one or more telemedicine appointments,Education,Bachelor'S Degree Or Above,,No Telemedicine Available,66.0,2.0,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Urbanization,Metropolitan,2232.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Urbanization,Metropolitan,,Yes,17.9,1.2,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Urbanization,Metropolitan,,No,16.6,1.3,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Urbanization,Metropolitan,,No Telemedicine Available,65.6,1.3,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Urbanization,Non-Metropolitan,419.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Urbanization,Non-Metropolitan,,Yes,14.4,2.7,,1.0,0.0
+3,Scheduled one or more telemedicine appointments,Urbanization,Non-Metropolitan,,No,9.3,1.6,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Urbanization,Non-Metropolitan,,No Telemedicine Available,76.3,3.0,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,One Or More Chronic Conditions,1663.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,One Or More Chronic Conditions,,Yes,22.3,1.4,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,One Or More Chronic Conditions,,No,17.5,1.6,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,One Or More Chronic Conditions,,No Telemedicine Available,60.2,1.6,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Diabetes,370.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Diabetes,,Yes,25.0,3.0,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Diabetes,,No,20.6,3.2,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Diabetes,,No Telemedicine Available,54.4,3.1,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Hypertension,1020.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Hypertension,,Yes,23.3,1.9,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Hypertension,,No,17.5,1.9,,0.0,0.0
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,Diagnosed Hypertension,,No Telemedicine Available,59.2,2.2,,1.0,1.0
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,Current Asthma,253.0,Total,100.0,,,,
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,Current Asthma,,Yes,26.3,4.4,,1.0,0.0
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,Current Asthma,,No,,,*,,
+3,Scheduled one or more telemedicine appointments,Chronic Conditions,Current Asthma,,No Telemedicine Available,60.6,5.6,,1.0,0.0
+1,Provider offered telemedicine prior to pandemic,Total,Total,6776.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Total,Total,,Yes,14.1,0.5,,,
+1,Provider offered telemedicine prior to pandemic,Total,Total,,No,61.7,0.6,,,
+1,Provider offered telemedicine prior to pandemic,Total,Total,,Do Not Know,12.9,0.5,,,
+1,Provider offered telemedicine prior to pandemic,Total,Total,,No Usual Place Of Care,11.3,0.7,,,
+1,Provider offered telemedicine prior to pandemic,Age Group,18-44 Years,2602.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Age Group,18-44 Years,,Yes,13.7,1.0,,,
+1,Provider offered telemedicine prior to pandemic,Age Group,18-44 Years,,No,55.6,1.2,,,
+1,Provider offered telemedicine prior to pandemic,Age Group,18-44 Years,,Do Not Know,13.7,0.7,,,
+1,Provider offered telemedicine prior to pandemic,Age Group,18-44 Years,,No Usual Place Of Care,16.9,1.1,,,
+1,Provider offered telemedicine prior to pandemic,Age Group,45-64 Years,2373.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Age Group,45-64 Years,,Yes,13.9,0.8,,,
+1,Provider offered telemedicine prior to pandemic,Age Group,45-64 Years,,No,65.9,1.1,,,
+1,Provider offered telemedicine prior to pandemic,Age Group,45-64 Years,,Do Not Know,12.6,0.8,,,
+1,Provider offered telemedicine prior to pandemic,Age Group,45-64 Years,,No Usual Place Of Care,7.6,0.7,,,
+1,Provider offered telemedicine prior to pandemic,Age Group,65 Years And Over,1801.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Age Group,65 Years And Over,,Yes,15.3,1.1,,,
+1,Provider offered telemedicine prior to pandemic,Age Group,65 Years And Over,,No,68.3,1.3,,,
+1,Provider offered telemedicine prior to pandemic,Age Group,65 Years And Over,,Do Not Know,11.8,1.0,,,
+1,Provider offered telemedicine prior to pandemic,Age Group,65 Years And Over,,No Usual Place Of Care,4.6,0.8,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,White Non-Hispanic,4502.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,White Non-Hispanic,,Yes,13.0,0.5,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,White Non-Hispanic,,No,63.9,0.7,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,White Non-Hispanic,,Do Not Know,13.9,0.6,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,White Non-Hispanic,,No Usual Place Of Care,9.1,0.7,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Black Non-Hispanic,809.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Black Non-Hispanic,,Yes,18.0,1.3,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Black Non-Hispanic,,No,60.7,2.4,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Black Non-Hispanic,,Do Not Know,8.3,1.2,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Black Non-Hispanic,,No Usual Place Of Care,13.0,2.2,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Other Non-Hispanic,527.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Other Non-Hispanic,,Yes,17.7,2.6,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Other Non-Hispanic,,No,56.4,3.6,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Other Non-Hispanic,,Do Not Know,13.7,3.3,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Other Non-Hispanic,,No Usual Place Of Care,12.2,2.4,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Hispanic,938.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Hispanic,,Yes,13.9,1.7,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Hispanic,,No,56.0,3.0,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Hispanic,,Do Not Know,12.1,1.4,,,
+1,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Hispanic,,No Usual Place Of Care,17.9,2.6,,,
+1,Provider offered telemedicine prior to pandemic,Sex,Male,2962.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Sex,Male,,Yes,13.9,0.7,,,
+1,Provider offered telemedicine prior to pandemic,Sex,Male,,No,60.4,0.9,,,
+1,Provider offered telemedicine prior to pandemic,Sex,Male,,Do Not Know,12.8,0.6,,,
+1,Provider offered telemedicine prior to pandemic,Sex,Male,,No Usual Place Of Care,12.9,1.0,,,
+1,Provider offered telemedicine prior to pandemic,Sex,Female,3814.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Sex,Female,,Yes,14.4,0.7,,,
+1,Provider offered telemedicine prior to pandemic,Sex,Female,,No,62.9,1.1,,,
+1,Provider offered telemedicine prior to pandemic,Sex,Female,,Do Not Know,13.0,0.7,,,
+1,Provider offered telemedicine prior to pandemic,Sex,Female,,No Usual Place Of Care,9.8,1.0,,,
+1,Provider offered telemedicine prior to pandemic,Education,High School Graduate Or Less,1292.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Education,High School Graduate Or Less,,Yes,13.2,1.0,,,
+1,Provider offered telemedicine prior to pandemic,Education,High School Graduate Or Less,,No,61.8,1.4,,,
+1,Provider offered telemedicine prior to pandemic,Education,High School Graduate Or Less,,Do Not Know,10.8,1.1,,,
+1,Provider offered telemedicine prior to pandemic,Education,High School Graduate Or Less,,No Usual Place Of Care,14.2,1.6,,,
+1,Provider offered telemedicine prior to pandemic,Education,Some College,2546.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Education,Some College,,Yes,13.8,1.0,,,
+1,Provider offered telemedicine prior to pandemic,Education,Some College,,No,62.4,1.3,,,
+1,Provider offered telemedicine prior to pandemic,Education,Some College,,Do Not Know,13.5,0.8,,,
+1,Provider offered telemedicine prior to pandemic,Education,Some College,,No Usual Place Of Care,10.3,0.7,,,
+1,Provider offered telemedicine prior to pandemic,Education,Bachelor'S Degree Or Above,2938.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Education,Bachelor'S Degree Or Above,,Yes,15.5,0.7,,,
+1,Provider offered telemedicine prior to pandemic,Education,Bachelor'S Degree Or Above,,No,60.8,0.9,,,
+1,Provider offered telemedicine prior to pandemic,Education,Bachelor'S Degree Or Above,,Do Not Know,14.7,0.8,,,
+1,Provider offered telemedicine prior to pandemic,Education,Bachelor'S Degree Or Above,,No Usual Place Of Care,9.0,0.6,,,
+1,Provider offered telemedicine prior to pandemic,Urbanization,Metropolitan,6040.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Urbanization,Metropolitan,,Yes,14.5,0.5,,,
+1,Provider offered telemedicine prior to pandemic,Urbanization,Metropolitan,,No,60.7,0.6,,,
+1,Provider offered telemedicine prior to pandemic,Urbanization,Metropolitan,,Do Not Know,13.0,0.5,,,
+1,Provider offered telemedicine prior to pandemic,Urbanization,Metropolitan,,No Usual Place Of Care,11.8,0.7,,,
+1,Provider offered telemedicine prior to pandemic,Urbanization,Non-Metropolitan,736.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Urbanization,Non-Metropolitan,,Yes,11.6,1.4,,,
+1,Provider offered telemedicine prior to pandemic,Urbanization,Non-Metropolitan,,No,69.2,2.7,,,
+1,Provider offered telemedicine prior to pandemic,Urbanization,Non-Metropolitan,,Do Not Know,11.9,1.6,,,
+1,Provider offered telemedicine prior to pandemic,Urbanization,Non-Metropolitan,,No Usual Place Of Care,7.2,1.7,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,One Or More Chronic Conditions,4076.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,One Or More Chronic Conditions,,Yes,15.6,0.6,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,One Or More Chronic Conditions,,No,66.0,0.9,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,One Or More Chronic Conditions,,Do Not Know,11.3,0.7,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,One Or More Chronic Conditions,,No Usual Place Of Care,7.1,0.6,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Diabetes,765.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Diabetes,,Yes,17.8,1.9,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Diabetes,,No,68.1,2.3,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Diabetes,,Do Not Know,7.9,1.1,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Diabetes,,No Usual Place Of Care,6.2,1.4,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Hypertension,2419.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Hypertension,,Yes,15.1,1.0,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Hypertension,,No,68.2,1.3,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Hypertension,,Do Not Know,10.8,1.1,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Hypertension,,No Usual Place Of Care,5.9,0.7,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,Current Asthma,698.0,Total,100.0,,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,Current Asthma,,Yes,18.3,2.0,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,Current Asthma,,No,64.3,1.8,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,Current Asthma,,Do Not Know,9.1,1.4,,,
+1,Provider offered telemedicine prior to pandemic,Chronic Conditions,Current Asthma,,No Usual Place Of Care,8.2,1.6,,,
+2,Provider offered telemedicine prior to pandemic,Total,Total,5959.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Total,Total,,Yes,14.1,0.7,,0.0,
+2,Provider offered telemedicine prior to pandemic,Total,Total,,No,62.6,0.9,,0.0,
+2,Provider offered telemedicine prior to pandemic,Total,Total,,Do Not Know,13.8,0.6,,0.0,
+2,Provider offered telemedicine prior to pandemic,Total,Total,,No Usual Place Of Care,9.5,0.7,,1.0,
+2,Provider offered telemedicine prior to pandemic,Age Group,18-44 Years,2206.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Age Group,18-44 Years,,Yes,14.0,1.0,,0.0,
+2,Provider offered telemedicine prior to pandemic,Age Group,18-44 Years,,No,55.4,1.4,,0.0,
+2,Provider offered telemedicine prior to pandemic,Age Group,18-44 Years,,Do Not Know,16.5,1.1,,1.0,
+2,Provider offered telemedicine prior to pandemic,Age Group,18-44 Years,,No Usual Place Of Care,14.0,1.3,,1.0,
+2,Provider offered telemedicine prior to pandemic,Age Group,45-64 Years,2076.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Age Group,45-64 Years,,Yes,14.3,0.8,,0.0,
+2,Provider offered telemedicine prior to pandemic,Age Group,45-64 Years,,No,65.5,1.3,,0.0,
+2,Provider offered telemedicine prior to pandemic,Age Group,45-64 Years,,Do Not Know,13.3,1.0,,0.0,
+2,Provider offered telemedicine prior to pandemic,Age Group,45-64 Years,,No Usual Place Of Care,7.0,0.8,,0.0,
+2,Provider offered telemedicine prior to pandemic,Age Group,65 Years And Over,1677.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Age Group,65 Years And Over,,Yes,14.0,1.1,,0.0,
+2,Provider offered telemedicine prior to pandemic,Age Group,65 Years And Over,,No,74.0,1.1,,1.0,
+2,Provider offered telemedicine prior to pandemic,Age Group,65 Years And Over,,Do Not Know,8.6,1.0,,1.0,
+2,Provider offered telemedicine prior to pandemic,Age Group,65 Years And Over,,No Usual Place Of Care,3.4,0.6,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,White Non-Hispanic,4065.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,White Non-Hispanic,,Yes,12.4,0.6,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,White Non-Hispanic,,No,64.6,1.1,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,White Non-Hispanic,,Do Not Know,15.0,0.8,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,White Non-Hispanic,,No Usual Place Of Care,8.0,0.8,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Black Non-Hispanic,687.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Black Non-Hispanic,,Yes,18.1,1.8,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Black Non-Hispanic,,No,64.3,2.0,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Black Non-Hispanic,,Do Not Know,8.1,1.3,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Black Non-Hispanic,,No Usual Place Of Care,9.5,1.7,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Other Non-Hispanic,459.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Other Non-Hispanic,,Yes,16.0,2.1,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Other Non-Hispanic,,No,61.3,3.1,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Other Non-Hispanic,,Do Not Know,12.6,1.9,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Other Non-Hispanic,,No Usual Place Of Care,10.1,1.8,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Hispanic,748.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Hispanic,,Yes,17.0,2.6,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Hispanic,,No,54.1,3.5,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Hispanic,,Do Not Know,13.9,3.1,,0.0,
+2,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Hispanic,,No Usual Place Of Care,15.0,1.9,,0.0,
+2,Provider offered telemedicine prior to pandemic,Sex,Male,2585.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Sex,Male,,Yes,14.3,1.0,,0.0,
+2,Provider offered telemedicine prior to pandemic,Sex,Male,,No,59.7,1.4,,0.0,
+2,Provider offered telemedicine prior to pandemic,Sex,Male,,Do Not Know,14.8,1.0,,1.0,
+2,Provider offered telemedicine prior to pandemic,Sex,Male,,No Usual Place Of Care,11.3,0.9,,0.0,
+2,Provider offered telemedicine prior to pandemic,Sex,Female,3374.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Sex,Female,,Yes,14.0,1.0,,0.0,
+2,Provider offered telemedicine prior to pandemic,Sex,Female,,No,65.3,1.1,,0.0,
+2,Provider offered telemedicine prior to pandemic,Sex,Female,,Do Not Know,12.9,0.8,,0.0,
+2,Provider offered telemedicine prior to pandemic,Sex,Female,,No Usual Place Of Care,7.9,1.0,,0.0,
+2,Provider offered telemedicine prior to pandemic,Education,High School Graduate Or Less,1100.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Education,High School Graduate Or Less,,Yes,13.3,1.4,,0.0,
+2,Provider offered telemedicine prior to pandemic,Education,High School Graduate Or Less,,No,62.9,1.8,,0.0,
+2,Provider offered telemedicine prior to pandemic,Education,High School Graduate Or Less,,Do Not Know,12.6,1.3,,0.0,
+2,Provider offered telemedicine prior to pandemic,Education,High School Graduate Or Less,,No Usual Place Of Care,11.2,1.4,,0.0,
+2,Provider offered telemedicine prior to pandemic,Education,Some College,2215.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Education,Some College,,Yes,14.8,1.1,,0.0,
+2,Provider offered telemedicine prior to pandemic,Education,Some College,,No,62.5,1.2,,0.0,
+2,Provider offered telemedicine prior to pandemic,Education,Some College,,Do Not Know,13.9,1.2,,0.0,
+2,Provider offered telemedicine prior to pandemic,Education,Some College,,No Usual Place Of Care,8.7,0.8,,0.0,
+2,Provider offered telemedicine prior to pandemic,Education,Bachelor'S Degree Or Above,2644.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Education,Bachelor'S Degree Or Above,,Yes,14.3,0.8,,0.0,
+2,Provider offered telemedicine prior to pandemic,Education,Bachelor'S Degree Or Above,,No,62.3,1.0,,0.0,
+2,Provider offered telemedicine prior to pandemic,Education,Bachelor'S Degree Or Above,,Do Not Know,15.0,0.7,,0.0,
+2,Provider offered telemedicine prior to pandemic,Education,Bachelor'S Degree Or Above,,No Usual Place Of Care,8.4,0.6,,0.0,
+2,Provider offered telemedicine prior to pandemic,Urbanization,Metropolitan,5304.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Urbanization,Metropolitan,,Yes,14.7,0.7,,0.0,
+2,Provider offered telemedicine prior to pandemic,Urbanization,Metropolitan,,No,61.9,0.9,,0.0,
+2,Provider offered telemedicine prior to pandemic,Urbanization,Metropolitan,,Do Not Know,13.7,0.7,,0.0,
+2,Provider offered telemedicine prior to pandemic,Urbanization,Metropolitan,,No Usual Place Of Care,9.7,0.6,,1.0,
+2,Provider offered telemedicine prior to pandemic,Urbanization,Non-Metropolitan,655.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Urbanization,Non-Metropolitan,,Yes,9.4,0.9,,0.0,
+2,Provider offered telemedicine prior to pandemic,Urbanization,Non-Metropolitan,,No,68.3,3.1,,0.0,
+2,Provider offered telemedicine prior to pandemic,Urbanization,Non-Metropolitan,,Do Not Know,14.5,2.6,,0.0,
+2,Provider offered telemedicine prior to pandemic,Urbanization,Non-Metropolitan,,No Usual Place Of Care,7.8,1.8,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,One Or More Chronic Conditions,3638.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,One Or More Chronic Conditions,,Yes,15.4,0.8,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,One Or More Chronic Conditions,,No,66.8,1.1,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,One Or More Chronic Conditions,,Do Not Know,11.5,0.7,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,One Or More Chronic Conditions,,No Usual Place Of Care,6.2,0.5,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Diabetes,684.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Diabetes,,Yes,18.0,2.2,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Diabetes,,No,68.7,2.4,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Diabetes,,Do Not Know,7.6,1.2,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Diabetes,,No Usual Place Of Care,5.7,1.4,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Hypertension,2181.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Hypertension,,Yes,16.0,1.0,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Hypertension,,No,67.9,1.4,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Hypertension,,Do Not Know,10.8,0.9,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Hypertension,,No Usual Place Of Care,5.3,0.6,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,Current Asthma,618.0,Total,100.0,,,,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,Current Asthma,,Yes,16.0,1.2,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,Current Asthma,,No,63.6,2.2,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,Current Asthma,,Do Not Know,11.8,2.3,,0.0,
+2,Provider offered telemedicine prior to pandemic,Chronic Conditions,Current Asthma,,No Usual Place Of Care,8.6,1.4,,0.0,
+3,Provider offered telemedicine prior to pandemic,Total,Total,1168.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Total,Total,,Yes,19.5,1.7,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Total,Total,,No,48.1,2.3,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Total,Total,,Do Not Know,8.1,1.4,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Total,Total,,No Usual Place Of Care,24.3,2.0,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Age Group,18-44 Years,459.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Age Group,18-44 Years,,Yes,16.3,2.5,,0.0,0.0
+3,Provider offered telemedicine prior to pandemic,Age Group,18-44 Years,,No,37.2,3.3,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Age Group,18-44 Years,,Do Not Know,9.1,2.5,,0.0,1.0
+3,Provider offered telemedicine prior to pandemic,Age Group,18-44 Years,,No Usual Place Of Care,37.4,3.4,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Age Group,45-64 Years,372.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Age Group,45-64 Years,,Yes,18.9,2.7,,0.0,0.0
+3,Provider offered telemedicine prior to pandemic,Age Group,45-64 Years,,No,57.2,3.3,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Age Group,45-64 Years,,Do Not Know,8.4,1.8,,0.0,1.0
+3,Provider offered telemedicine prior to pandemic,Age Group,45-64 Years,,No Usual Place Of Care,15.5,2.6,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Age Group,65 Years And Over,337.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Age Group,65 Years And Over,,Yes,28.6,3.7,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Age Group,65 Years And Over,,No,60.3,4.0,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Age Group,65 Years And Over,,Do Not Know,4.8,1.4,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Age Group,65 Years And Over,,No Usual Place Of Care,6.2,1.8,,0.0,0.0
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,White Non-Hispanic,716.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,White Non-Hispanic,,Yes,19.5,2.0,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,White Non-Hispanic,,No,53.0,3.0,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,White Non-Hispanic,,Do Not Know,8.7,1.8,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,White Non-Hispanic,,No Usual Place Of Care,18.9,2.4,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Black Non-Hispanic,196.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Black Non-Hispanic,,Yes,22.1,4.3,,0.0,0.0
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Black Non-Hispanic,,No,43.2,5.1,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Black Non-Hispanic,,Do Not Know,,,*,,
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Black Non-Hispanic,,No Usual Place Of Care,30.0,5.4,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Other Non-Hispanic,70.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Other Non-Hispanic,,Yes,20.2,6.1,,0.0,0.0
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Other Non-Hispanic,,No,,,*,,
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Other Non-Hispanic,,Do Not Know,,,*,,
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Other Non-Hispanic,,No Usual Place Of Care,,,*,,
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Hispanic,186.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Hispanic,,Yes,16.6,4.5,,0.0,0.0
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Hispanic,,No,40.7,5.4,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Hispanic,,Do Not Know,,,*,,
+3,Provider offered telemedicine prior to pandemic,Race/Hispanic Origin,Hispanic,,No Usual Place Of Care,34.1,5.3,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Sex,Male,526.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Sex,Male,,Yes,18.8,2.4,,1.0,0.0
+3,Provider offered telemedicine prior to pandemic,Sex,Male,,No,43.9,3.2,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Sex,Male,,Do Not Know,9.2,2.4,,0.0,1.0
+3,Provider offered telemedicine prior to pandemic,Sex,Male,,No Usual Place Of Care,28.0,2.8,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Sex,Female,642.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Sex,Female,,Yes,20.0,2.0,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Sex,Female,,No,51.8,2.7,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Sex,Female,,Do Not Know,7.1,1.6,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Sex,Female,,No Usual Place Of Care,21.1,2.5,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Education,High School Graduate Or Less,251.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Education,High School Graduate Or Less,,Yes,17.6,3.0,,0.0,0.0
+3,Provider offered telemedicine prior to pandemic,Education,High School Graduate Or Less,,No,43.1,4.1,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Education,High School Graduate Or Less,,Do Not Know,,,*,,
+3,Provider offered telemedicine prior to pandemic,Education,High School Graduate Or Less,,No Usual Place Of Care,32.1,4.0,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Education,Some College,583.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Education,Some College,,Yes,22.7,2.6,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Education,Some College,,No,49.7,3.1,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Education,Some College,,Do Not Know,7.2,1.4,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Education,Some College,,No Usual Place Of Care,20.4,2.3,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Education,Bachelor'S Degree Or Above,334.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Education,Bachelor'S Degree Or Above,,Yes,18.2,2.5,,0.0,0.0
+3,Provider offered telemedicine prior to pandemic,Education,Bachelor'S Degree Or Above,,No,53.4,3.6,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Education,Bachelor'S Degree Or Above,,Do Not Know,10.4,1.5,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Education,Bachelor'S Degree Or Above,,No Usual Place Of Care,18.0,2.5,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Urbanization,Metropolitan,1021.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Urbanization,Metropolitan,,Yes,18.8,1.8,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Urbanization,Metropolitan,,No,48.4,2.2,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Urbanization,Metropolitan,,Do Not Know,8.7,1.5,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Urbanization,Metropolitan,,No Usual Place Of Care,24.1,1.9,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Urbanization,Non-Metropolitan,147.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Urbanization,Non-Metropolitan,,Yes,24.8,4.2,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Urbanization,Non-Metropolitan,,No,45.6,5.4,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Urbanization,Non-Metropolitan,,Do Not Know,,,*,,
+3,Provider offered telemedicine prior to pandemic,Urbanization,Non-Metropolitan,,No Usual Place Of Care,26.5,6.9,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,One Or More Chronic Conditions,742.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,One Or More Chronic Conditions,,Yes,23.9,2.4,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,One Or More Chronic Conditions,,No,56.2,2.9,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,One Or More Chronic Conditions,,Do Not Know,7.8,2.0,,0.0,0.0
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,One Or More Chronic Conditions,,No Usual Place Of Care,12.0,1.9,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Diabetes,192.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Diabetes,,Yes,22.8,3.4,,0.0,0.0
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Diabetes,,No,63.7,4.8,,0.0,0.0
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Diabetes,,Do Not Know,,,*,,
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Diabetes,,No Usual Place Of Care,,,*,,
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Hypertension,456.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Hypertension,,Yes,25.4,3.0,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Hypertension,,No,56.9,3.5,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Hypertension,,Do Not Know,,,*,,
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,Diagnosed Hypertension,,No Usual Place Of Care,11.2,2.3,,1.0,1.0
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,Current Asthma,118.0,Total,100.0,,,,
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,Current Asthma,,Yes,27.3,6.6,,0.0,0.0
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,Current Asthma,,No,53.0,6.4,,0.0,0.0
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,Current Asthma,,Do Not Know,,,*,,
+3,Provider offered telemedicine prior to pandemic,Chronic Conditions,Current Asthma,,No Usual Place Of Care,,,*,,
