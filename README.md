@@ -19,30 +19,36 @@ The pipeline follows this structure:
 Config → Extract → Raw Storage → Transform & Clean → Cleaned Storage → Analysis & Visualization
 
 DE Assignment 1/
-│
+.
+├── Reports
+│   ├── Report.pdf
+│   ├── Theoretical Questions.pdf
+│   └── elt_pipeline_architecture.jpeg
+├── data
+│   ├── cleaned
+│   │   ├── extracted_api_cleaned_data.csv
+│   │   ├── extracted_api_cleaned_data.json
+│   │   ├── google_data_cleaned.csv
+│   │   ├── google_data_cleaned.json
+│   │   ├── loaded_data_cleaned_data.csv
+│   │   └── loaded_data_cleaned_data.json
+│   └── raw
+│       ├── disease_diagnosis.csv
+│       ├── google_trends_raw.csv
+│       ├── google_trends_raw.json
+│       ├── healthdata_raw.csv
+│       └── healthdata_raw.json
+├── plots
+│   ├── api_response_count_plot.png
+│   ├── loaded_data_box_plot.png
+│   └── trends_time_series_chart.png
 ├── Part1_extraction.py
-├── load.py
-├── trends.py
-├── run_pipeline.py
 ├── Part2_analysis.ipynb
+├── README.md
 ├── config.json
-│
-├── data/
-│   ├── raw/
-│   │   ├── healthdata_raw.csv
-│   │   ├── google_trends_raw.csv
-│   │   ├── disease_diagnosis.csv
-│   │   └── *.json
-│   │
-│   └── cleaned/
-│       ├── extracted_api_cleaned_data.csv
-│       ├── loaded_data_cleaned_data.csv
-│       └── google_data_cleaned.csv
-│
-├── api_response_count_plot.png
-├── trends_time_series_chart.png
-├── loaded_data_box_plot.png
-└── venv/
+├── load.py
+├── run_pipeline.py
+└── trends.py
 
 
 How to Run the Pipeline
