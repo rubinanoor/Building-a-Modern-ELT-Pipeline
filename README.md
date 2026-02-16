@@ -18,6 +18,10 @@ Pipeline Architecture
 The pipeline follows this structure:
 Config → Extract → Raw Storage → Transform & Clean → Cleaned Storage → Analysis & Visualization
 
+## Project Structure
+
+```bash
+
 DE Assignment 1/
 .
 ├── Reports
@@ -49,6 +53,8 @@ DE Assignment 1/
 ├── load.py
 ├── run_pipeline.py
 └── trends.py
+
+```
 
 
 How to Run the Pipeline
